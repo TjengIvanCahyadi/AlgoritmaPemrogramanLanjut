@@ -1,0 +1,21 @@
+merk,jenis barang,quantity,harga
+akari,mesin cuci,8,2459000
+akari,tv,10,10000000
+lg,ac,3,3400000
+lg,tv,8,2350000
+maspion,blender,2,700000
+maspion,kipas,3,230000
+maspion,setrika,4,270000
+miyako,blender,2,625000
+miyako,kipas,3,215000
+miyako,setrika,5,230000
+panasonic,ac,2,4275000
+philips,blender,9,770000
+philips,kipas,10,250000
+philips,setrika,5,330000
+polytron,speaker,7,1850000
+polytron,tv,5,3075000
+samsung,ac,3,4000000
+samsung,tv,4,3900000
+sharp,ac,5,3200000
+sharp,tv,2,3050000
